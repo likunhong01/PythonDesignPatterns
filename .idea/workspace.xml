@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0aa7cf4-f956-4056-9d67-97dbf7b8a107" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/行为型模式/策略模式/no01实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数式编程3个高阶函数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/行为型模式/策略模式/no01实现.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="464">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/函数式编程3个高阶函数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -129,6 +135,7 @@
         <option value="$USER_HOME$/linux学校上课用的/实验三/backup.sh" />
         <option value="$PROJECT_DIR$/../../litemall-master/litemall-vue/src/api/api.js" />
         <option value="$PROJECT_DIR$/行为型模式/策略模式/no01实现.py" />
+        <option value="$PROJECT_DIR$/函数式编程.py" />
       </list>
     </option>
   </component>
@@ -148,68 +155,6 @@
             <path>
               <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="创建型模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="创建型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="工厂模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="复合模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="复合模式" type="462c0819:PsiDirectoryNode" />
-              <item name="MVC模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="命令模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="状态设计模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="策略模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="观察者模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,18 +415,18 @@
       <workItem from="1561528939793" duration="220000" />
       <workItem from="1561618621821" duration="649000" />
       <workItem from="1561908999329" duration="165000" />
-      <workItem from="1564112195413" duration="428000" />
+      <workItem from="1564112195413" duration="1253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30818000" />
+    <option name="totallyTimeSpent" value="31643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -678,8 +623,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/行为型模式/策略模式/no01实现.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="464">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式编程3个高阶函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
